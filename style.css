@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(0, 128, 128);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
